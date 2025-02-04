@@ -121,7 +121,8 @@ class FinalWin(QWidget):
 ```
 
 ## Screenshots
-![Instructions]()
+![Instructions](imgs/instructions.png)
+![Final Page](imgs/results.png)
 
 
 ## Advantages Over Similar Applications
