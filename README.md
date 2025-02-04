@@ -120,6 +120,10 @@ class FinalWin(QWidget):
             return level5
 ```
 
+## Screenshots
+![Instructions]()
+
+
 ## Advantages Over Similar Applications
 - **Offline functionality** - No internet required.
 - **Simple UI with clear instructions** - No medical expertise needed.
