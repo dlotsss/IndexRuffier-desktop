@@ -10,11 +10,17 @@ The **Index Ruffier Desktop Application** is a PyQt5-based software designed to 
 
 ## Features
 ✔️ **Step-by-step guided test** with automatic timers
+
 ✔️ **Pulse measurement before, during, and after exercise**
+
 ✔️ **Automated Ruffier Index calculation**
+
 ✔️ **Personalized health evaluation based on age**
+
 ✔️ **Easy-to-use graphical interface (PyQt5)**
+
 ✔️ **Real-time feedback on heart performance**
+
 ✔️ **Error handling for incorrect user inputs**
 
 ## Installation
