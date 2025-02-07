@@ -124,6 +124,8 @@ class FinalWin(QWidget):
 ![Instructions](imgs/instructions.png)
 ![Final Page](imgs/results.png)
 
+## Screenrecording 
+[App Demo](imgs/screen-recording.gif)
 
 ## Advantages Over Similar Applications
 - **Offline functionality** - No internet required.
